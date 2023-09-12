@@ -1,0 +1,16 @@
+{
+  "name": "web-scrapping-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "pagination": "node pagination.js"
+  },
+  "keywords": [],
+  "author": "Haseeb Ahmed Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  }
+}
