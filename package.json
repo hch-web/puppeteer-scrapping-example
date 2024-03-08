@@ -8,7 +8,13 @@
     "pagination": "node pagination.js"
   },
   "keywords": [],
-  "author": "Haseeb Ahmed Chaudhary",
+  "author": {
+    "name": "Haseeb Ahmed Chaudhary",
+    "email": "hch25474@gmail.com"
+  },
+  "engines": {
+    "node": "^20.10.0"
+  },
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^20.9.0"
